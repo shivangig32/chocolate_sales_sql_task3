@@ -1,7 +1,5 @@
-# chocolate_sales_sql_task3
-# Chocolate Sales SQL Analysis
-
-## Project Summary
+# Chocolate Sales SQL Analysis task3
+# Project Summary
 
 This project showcases an end-to-end SQL-based analysis of a chocolate sales dataset using *MySQL Workbench*. The dataset, imported from a CSV file, includes fields such as country, product, category, sales amount, boxes sold, and order date. Using SQL, we performed data cleaning, exploration, and aggregation to uncover business insights.
 
